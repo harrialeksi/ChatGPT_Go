@@ -6,4 +6,5 @@ I want to explore how ChatGPT can help to build a repository of ready-to-run pro
 
 Feel free to star, fork or create pull request.
 
-This is going to be an exciting journey!
+This is going to be an exciting journey!![image](https://user-images.githubusercontent.com/10286947/230735485-7f544ece-09ab-4267-bbec-78e7af3cf2bb.png)
+
