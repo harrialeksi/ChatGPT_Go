@@ -1,5 +1,6 @@
 /*
 show an example in go how to interact with chatgpt api
+https://platform.openai.com/account/api-keys
 
 In this example, we create a ChatRequest struct to represent the request body and a ChatResponse struct to represent the response body.
 
