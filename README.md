@@ -8,3 +8,5 @@ Feel free to star, fork or create pull request.
 
 This is going to be an exciting journey!![image](https://user-images.githubusercontent.com/10286947/230735485-7f544ece-09ab-4267-bbec-78e7af3cf2bb.png)
 
+More details at https://medium.com/@pithomlabs/how-to-become-a-go-backend-developer-the-optimal-way-96b752a0b87d
+
