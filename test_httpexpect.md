@@ -1,4 +1,4 @@
-//
+//how does httpexpect in go work
 
 httpexpect is a Go library that provides a fluent and expressive way to write HTTP integration tests. It simplifies the process of writing HTTP tests by allowing you to define expected HTTP responses and assertions in a concise and readable manner. Here's how httpexpect works:
 
