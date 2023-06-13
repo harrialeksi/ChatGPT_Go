@@ -33,7 +33,7 @@ func main() {
 	defer db.Close()
 
 	// Initialize variables
-	page := 1      // Current page
+	//page := 1      // Current page
 	pageSize := 10 // Number of records per page
 	var total int  // Total number of records
 
