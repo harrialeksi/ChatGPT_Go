@@ -31,7 +31,7 @@ func main() {
 		panic("failed to connect database")
 	}
 	defer db.Close()
-
+	// HERE! HERE!
 	// Initialize variables
 	page := 1      // Current page
 	pageSize := 10 // Number of records per page
